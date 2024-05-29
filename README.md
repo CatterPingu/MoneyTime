@@ -10,6 +10,8 @@ MoneyTime is a mock UI for a financial management tool built using Jetpack Compo
 - **Finance**
 - **Currencies**
 
+# Recording
+![Recording](screenshots/MoneyTime screen recording.mp4)
 
 ## Screenshot 1
 ![Screenshot 1](screenshots/Screenshot_20240529_074204_MoneyTime.jpg)
